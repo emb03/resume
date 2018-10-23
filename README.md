@@ -1,6 +1,6 @@
 # Elaine M. Blakeman
 
-[Cover Letter](http://htmlpreview.github.com/?https://github.com/emb03/resume/blob/master/cover_letter.html)
+![Cover Letter](https://github.com/emb03/resume/blob/master/cover.gif)
 
 [http://www.chasingtalesdesign.com](http://www.chasingtalesdesign.com)
 
